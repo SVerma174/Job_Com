@@ -1,6 +1,6 @@
 <h1 align="center">💼 Job.com</h1>
 <h3 align="center">A Modern Job Portal for Job Seekers and Employers</h3>
-
+<h2 align="center">College 5th Sem Project </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Active-brightgreen" alt="Project Status">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
